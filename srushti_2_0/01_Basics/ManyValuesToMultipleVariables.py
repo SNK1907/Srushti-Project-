@@ -1,0 +1,6 @@
+# Author: Srushti
+# Project: python-lab
+x, y, z = "Srushti", "shiv", "om"
+print(x)
+print(y)
+print(z)
